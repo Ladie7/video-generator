@@ -11,7 +11,8 @@ slides = [
 audio_file = "music.mp3"
 
 # ملف الخط (Lora من Google Fonts)
-font_file = "Lora-Regular.ttf"
+font_file = "Lora-SemiBold.ttf"
+
 
 # الفيديو النهائي
 output_video = "final_video.mp4"
