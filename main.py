@@ -3,8 +3,8 @@ import subprocess
 
 # 👩‍👦 الصور + النصوص (بدّل الأسماء حسب صورك)
 slides = [
-    {"image": "1.png", "text": "التعب حاضر… لكن الحب أقوى."},
-    {"image": "2.png", "text": "كل يوم فرصة جديدة للتغيير."},
+    {"image": "2.png", "text": "Fatigue is present... but love is stronger."},
+    {"image": "1.png", "text": "Every day is a new opportunity for change.."},
 ]
 
 # ملف الصوت (حط موسيقى ملهمة mp3)
